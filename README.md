@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chavi</h1>
+<h1 align="center">Hi! 👋 I'm Chavi</h1>
 <h3 align="center">A passionate fullstack developer from Mexico</h3>
 
 - 📫 How to reach me **jchavirafrias@gmail.com**
